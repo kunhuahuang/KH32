@@ -1,0 +1,1 @@
+Please generate a dual port BRAM ip module called MEM_1K_word. The MEM_1K_word should be 1K 32-bit.
